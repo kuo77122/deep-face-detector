@@ -1,5 +1,6 @@
 # project folders
 results/*
+!results/.gitkeep
 
 # OSX
 .DS_Store
