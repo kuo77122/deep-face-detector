@@ -2,6 +2,11 @@
 
 Output bounding box, pose, landmarks, age and gender
 
+# Installation
+# Usage
+# Test
+# Useful Links
+
 ## DataSet
 1. **LFW: Labeled Faces in the Wild**
 
@@ -97,4 +102,4 @@ Output bounding box, pose, landmarks, age and gender
 
 ## Training 
 
-## Test Result
+## Evaluating Result
